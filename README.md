@@ -2,8 +2,6 @@
 
 Individual project for **MMA3001 – Numerical Methods and Machine Learning** (Monash University), Dataset 2: Monash smart-infrastructure environmental sensor data.
 
-> **DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  ← replace `XXXXXXX` with your Zenodo DOI (see "Citing this work")
-
 ## 1. What this tool is for
 
 Indoor air-quality sensors record some variables on every reading (CO₂, temperature, humidity, pressure) but others only some of the time (formaldehyde, light volatile organic compounds, particulate matter PM1 / PM2.5 / PM4 / PM10). Gaps in the sparse variables make it hard to monitor indoor environmental quality continuously.
@@ -124,13 +122,7 @@ Expected: all tests pass (the one real-data test is skipped if `data/` is empty)
 
 Released under the **GPL-2.0 license** – see the [`LICENSE`](LICENSE) file. The sensor data belongs to its owners and is provided through the MMA3001 unit; it is not covered by this licence.
 
-## 7. Citing this work
-
-If you use this tool, please cite it using the DOI above, or the metadata in [`CITATION.cff`](CITATION.cff):
-
-> Ethan Tran (2026). *MMA3001 Project: Estimating Sparse Indoor-Environment Measurements from Dense Sensor Data* (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
-
-## 8. AI use
+## 7. AI use
 
 AI tools (Claude, Anthropic) assisted with code review, refactoring into the documented module, test writing and drafting this README. All code, results and claims were checked and are the author's responsibility. The full AI-use reflection is in the project report.
 
