@@ -122,13 +122,13 @@ Expected: all tests pass (the one real-data test is skipped if `data/` is empty)
 
 ## 6. Licence
 
-Released under the **MIT Licence** – see the [`LICENSE`](LICENSE) file. The sensor data belongs to its owners and is provided through the MMA3001 unit; it is not covered by this licence.
+Released under the **GPL-2.0 license** – see the [`LICENSE`](LICENSE) file. The sensor data belongs to its owners and is provided through the MMA3001 unit; it is not covered by this licence.
 
 ## 7. Citing this work
 
 If you use this tool, please cite it using the DOI above, or the metadata in [`CITATION.cff`](CITATION.cff):
 
-> YOUR NAME (2026). *MMA3001 Project: Estimating Sparse Indoor-Environment Measurements from Dense Sensor Data* (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Ethan Tran (2026). *MMA3001 Project: Estimating Sparse Indoor-Environment Measurements from Dense Sensor Data* (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ## 8. AI use
 
